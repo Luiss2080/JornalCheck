@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "JornalCheck",
+    "slug": "jornalcheck",
+    "scheme": "jornalcheck",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.luiss2080.jornalcheck"
+    },
+    "android": {
+      "package": "com.luiss2080.jornalcheck"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
